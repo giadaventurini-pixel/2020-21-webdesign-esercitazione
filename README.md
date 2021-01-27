@@ -1,7 +1,7 @@
-# 2020-21-webdesign-esercitazione
+# 2020-21-webdesign-esercitazione  
+# Personas
 
-#Personas
-Federica Venti,fotografa, 23 anni, vive a  Milano(periferia) .
+ Federica Venti,fotografa, 23 anni, vive a  Milano(periferia) .
 Ha bisogno di una lista di eventi sempre aggiornata  perchè ha  la necessità,
 vivendo in periferia, di 
 visionare il lavoro ed ottenerlo prima dei suoi colleghi fotografi.
